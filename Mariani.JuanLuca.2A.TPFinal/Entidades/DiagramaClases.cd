@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Auricular">
+    <Position X="0.5" Y="6" Width="2.25" />
+    <Members>
+      <Method Name="Auricular" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAQAAEgAAAAAAAAACAAIAAAAgQAAAQAiA=</HashCode>
+      <FileName>Auricular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.DepositoFabrica&lt;T&gt;">
+    <Position X="3.5" Y="4.75" Width="2.5" />
+    <Members>
+      <Method Name="DepositoFabrica" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>IAAAIAEAAAgAADAEQAEAggAAAAABAAAkAAAAAAIBAAA=</HashCode>
+      <FileName>DepositoFabrica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.FileManager&lt;T&gt;">
+    <Position X="3.5" Y="9.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABCAAgAAAAAAAAAAIAAAAAAEAAAA=</HashCode>
+      <FileName>FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Periferico">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <Members>
+      <Method Name="Periferico" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAQABAEQBAKAAAAAAQAAAAQAAAAEAAAACAQgAgUAEE=</HashCode>
+      <FileName>Periferico.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Teclado">
+    <Position X="3.5" Y="0.5" Width="2.5" />
+    <Members>
+      <Method Name="Teclado" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAEgAAAAAAAAAABAIAAAAgQAAAQAiQ=</HashCode>
+      <FileName>Teclado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Entidades.IProducto">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IProducto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Entidades.Color">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAEAAAAAAAAAAAAQAAAAACAAAAA=</HashCode>
+      <FileName>Enumeraciones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.EtipoTeclado">
+    <Position X="0.5" Y="10.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Enumeraciones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.ColorLuces">
+    <Position X="6.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAIAAAAAAAEAAQUAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumeraciones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.Modelo">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Enumeraciones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.EtipoProducto">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumeraciones.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

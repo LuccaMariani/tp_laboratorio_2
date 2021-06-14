@@ -1,0 +1,10 @@
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Test\bin\Debug\Test.exe.config
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Test\bin\Debug\Test.exe
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Test\bin\Debug\Test.pdb
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Test\bin\Debug\Entidades.dll
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Test\bin\Debug\Entidades.pdb
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Test\obj\Debug\Test.exe
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Test\obj\Debug\Test.pdb
