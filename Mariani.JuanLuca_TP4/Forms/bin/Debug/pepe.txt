@@ -1,0 +1,24 @@
+#  Deposito: Deposito Fabrica  #
+Cantidad de Productos: (2)
+
+Auricular: SerieA
+| Microfono: True
+| Marca: Razer
+| Color: Negro
+| Color de luces: SinLuces
+| Inalambrico: True
+| PRECIO: 2726
+| NUMERO SERIE: 119
+
+
+Auricular: SerieA
+| Microfono: True
+| Marca: Razer
+| Color: Negro
+| Color de luces: SinLuces
+| Inalambrico: True
+| PRECIO: 2726
+| NUMERO SERIE: 125
+
+
+

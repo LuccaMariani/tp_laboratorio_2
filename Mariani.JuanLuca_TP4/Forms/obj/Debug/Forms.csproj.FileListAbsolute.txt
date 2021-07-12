@@ -1,0 +1,46 @@
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\bin\Debug\Forms.exe.config
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\bin\Debug\Forms.exe
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\bin\Debug\Forms.pdb
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\obj\Debug\Forms.exe
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\obj\Debug\Forms.pdb
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\obj\Debug\Forms.FormFabricar.resources
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\bin\Debug\Entidades.dll
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\bin\Debug\Entidades.pdb
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal\Forms\obj\Debug\Forms.FormPrincipal.resources
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\bin\Debug\Forms.exe.config
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\bin\Debug\Forms.exe
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\bin\Debug\Forms.pdb
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\bin\Debug\Entidades.dll
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\bin\Debug\Entidades.pdb
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\obj\Debug\Forms.FormDeposito.resources
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\obj\Debug\Forms.FormPrincipal.resources
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\obj\Debug\Forms.FormFabricar.resources
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\obj\Debug\Forms.exe
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\obj\Debug\Forms.pdb
+C:\Users\SENTEY\source\repos\Mariani.JuanLuca.2A.TPFinal - copia\Forms\bin\Debug\Entidades.dll.config
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\bin\Debug\Forms.exe.config
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\bin\Debug\Forms.exe
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\bin\Debug\Forms.pdb
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\bin\Debug\Entidades.dll
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\bin\Debug\Entidades.pdb
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\bin\Debug\Entidades.dll.config
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\obj\Debug\Forms.FormDeposito.resources
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\obj\Debug\Forms.FormPrincipal.resources
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\obj\Debug\Forms.FormFabricar.resources
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\obj\Debug\Forms.exe
+C:\Users\SENTEY\Desktop\Mariani.JuanLuca.2A.TP4\Forms\obj\Debug\Forms.pdb
