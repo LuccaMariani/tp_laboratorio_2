@@ -3,3 +3,9 @@ C:\Users\SENTEY\source\repos\TP-02\Entidades\bin\Debug\Entidades.dll
 C:\Users\SENTEY\source\repos\TP-02\Entidades\bin\Debug\Entidades.pdb
 C:\Users\SENTEY\source\repos\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\SENTEY\source\repos\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\Mariani.JuanLuca_TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\Mariani.JuanLuca_TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\Mariani.JuanLuca_TP2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\Mariani.JuanLuca_TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\Mariani.JuanLuca_TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\Mariani.JuanLuca_TP2\Entidades\obj\Debug\Entidades.pdb
