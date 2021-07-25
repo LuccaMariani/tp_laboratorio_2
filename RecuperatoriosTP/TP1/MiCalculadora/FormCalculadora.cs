@@ -11,7 +11,7 @@ using Entidades;
 
 namespace MiCalculadora
 {
-    public partial class Calculadora : Form
+    public partial class FormCalculadora : Form
     {
 
         #region %% CONSTRUCTOR %%
@@ -19,7 +19,7 @@ namespace MiCalculadora
         /// <summary>
         /// Inicializa la Calculadora, en este caso con el Combo Operador deafult ¨+¨.
         /// </summary>
-        public Calculadora()
+        public FormCalculadora()
         {
             InitializeComponent();
             cmbOperador.Text = "+";
@@ -54,7 +54,7 @@ namespace MiCalculadora
 
         private void BtnCerrar_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Close(); 
         }
 
         private void BtnConvertirABinario_Click(object sender, EventArgs e)
@@ -109,12 +109,27 @@ namespace MiCalculadora
         /// <returns> Retorna el resultado de tipo double. </returns>
         private static double Operar(string numero1, string numero2, string operador)
         {
-            Entidades.Numero num1 = new Entidades.Numero(numero1);
-            Entidades.Numero num2 = new Entidades.Numero(numero2);      
+            Numero num1 = new Numero(numero1);
+            Numero num2 = new Numero(numero2);
 
-            return Entidades.Calculadora.Operar(num1, num2, operador);
+            Entidades.Calculadora calc = new Entidades.Calculadora();
+
+            return calc.Operar(num1, num2, operador);
         }
 
+        private void Calculadora_Load(object sender, EventArgs e)
+        {
+            Limpiar();
+        }
+
+        private void FormCalculadora_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (MessageBox.Show("Esta segudo de cerrar la calculadora?", "Aviso", MessageBoxButtons.YesNo) == DialogResult.No)
+            {
+                e.Cancel = true;
+            }
+
+        }
     }
 
 }

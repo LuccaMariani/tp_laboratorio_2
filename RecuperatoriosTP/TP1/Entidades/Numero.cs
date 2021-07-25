@@ -17,7 +17,7 @@ namespace Entidades
         /// <summary>
         /// Valida el numero y lo guarda en el atribuno numero de la clase.
         /// </summary>
-        public string SetNumero
+        private string SetNumero
         {
             set
             {
@@ -68,6 +68,7 @@ namespace Entidades
                 if (a != '1' && a != '0')
                 {
                     retorno = false;
+                    break;
                 }
             }
             return retorno;
@@ -178,13 +179,13 @@ namespace Entidades
         /// <returns> Retorna true o false, dependiendo de lo que reciba.</returns>
         private double ValidarNumero(string strNumero)
         {
-
             bool retorno = int.TryParse(strNumero, out int numeroValidado);
 
             if (!retorno)
             {
                 numeroValidado = 0;
             }
+
             return numeroValidado;
         }
 

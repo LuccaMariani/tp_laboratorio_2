@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public static class Calculadora
+    public class Calculadora
     {
         /// <summary>
         /// Valida el operador tipo string ingresado y luego realiza la operacion aritmetica correspondiente.
@@ -15,7 +15,7 @@ namespace Entidades
         /// <param name="num2"></param>
         /// <param name="operador"></param>
         /// <returns> Retorna el resultado de la operacion de tipo double. </returns>
-        public static double Operar(Numero num1, Numero num2, string operador)
+        public double Operar(Numero num1, Numero num2, string operador)
         {
             double resultado;
             string auxOperador="+";

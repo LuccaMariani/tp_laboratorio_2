@@ -1,7 +1,7 @@
 ﻿
 namespace MiCalculadora
 {
-    partial class Calculadora
+    partial class FormCalculadora
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -141,7 +141,7 @@ namespace MiCalculadora
             this.btnOperar.UseVisualStyleBackColor = true;
             this.btnOperar.Click += new System.EventHandler(this.BtnOperar_Click);
             // 
-            // Calculadora
+            // FormCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -159,10 +159,12 @@ namespace MiCalculadora
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "Calculadora";
+            this.Name = "FormCalculadora";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Mariani Juan Luca del curso 2ºA";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormCalculadora_FormClosing);
+            this.Load += new System.EventHandler(this.Calculadora_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
