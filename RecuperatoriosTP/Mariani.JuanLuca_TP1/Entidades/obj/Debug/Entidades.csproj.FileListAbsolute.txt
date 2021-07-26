@@ -1,0 +1,6 @@
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP1\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP1\Entidades\obj\Debug\Entidades.pdb

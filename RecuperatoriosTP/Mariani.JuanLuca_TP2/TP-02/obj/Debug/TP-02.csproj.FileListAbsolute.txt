@@ -1,0 +1,10 @@
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP2\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP2\TP-02\bin\Debug\TP-02.exe
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP2\TP-02\bin\Debug\TP-02.pdb
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP2\TP-02\bin\Debug\Entidades.dll
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP2\TP-02\bin\Debug\Entidades.pdb
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP2\TP-02\obj\Debug\TP-02.csproj.AssemblyReference.cache
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP2\TP-02\obj\Debug\TP-02.exe
+C:\Users\SENTEY\Desktop\borar\tp_laboratorio_2\RecuperatoriosTP\Mariani.JuanLuca_TP2\TP-02\obj\Debug\TP-02.pdb
